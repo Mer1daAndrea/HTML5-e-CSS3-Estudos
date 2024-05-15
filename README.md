@@ -2,7 +2,7 @@ Foco, 100 dias aprendedno programação sem pular nenhum dia!
 
 # HTML5-e-CSS3-Estudos
 
-Dia 01 - 100
+01 - 100
 
 Neste repositorio se encontra minhas tarefas de hoje 14/05/2024 do meu Curso de HTML5 e CSS3
 
