@@ -22,4 +22,4 @@ No google ficou dessa forma:
 
 ![image](https://github.com/Mer1daAndrea/HTML5-e-CSS3-Estudos/assets/167032071/972fdacc-8056-4c99-aa8a-f044f00c6e86)
 
-Encerro a aula de hoje;
+...
