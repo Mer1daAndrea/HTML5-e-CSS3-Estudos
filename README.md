@@ -6,7 +6,26 @@ Neste repositorio se encobntra minhas tarefas de hoje do meu Curso de HTML5 e CS
 
 Na aula de hoje instalei VSCode e escrevi o seguinte codigo para teste:
 
-![image](https://github.com/Mer1daAndrea/HTML5-e-CSS3-Estudos/assets/167032071/c32fa9c2-3bac-43e8-8c1a-546c7ee7a999)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Olá mundo exercicio</title>
+    <style>
+        h1{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 30pt;
+            color: pink;
+            text-shadow: 2px 2px 2px black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá Mundo!</h1>
+    <h2>Me Salvando</h2>
+</body>
+</html>
 
 Resultando na seguinte pagina:
 
@@ -14,7 +33,22 @@ Resultando na seguinte pagina:
 
 Dando continuidade na aula aprendi que as seguintes marcações:
 
-![image](https://github.com/Mer1daAndrea/HTML5-e-CSS3-Estudos/assets/167032071/edb3acec-5e48-443c-a259-aeb4ba159be8)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragrafos</title>
+</head>
+<body>
+    <h1>Parágrafos e quebras de linha</h1>
+    <hr>
+    <p>Você pode escrever um parágrafo de qualquer jeito. Basta colocar tudo no meio do par de Tags &lt;p&gt; e &lt;/p&gt; 
+    </p>
+    <p>Se Você for precisar usar uma quebra de texto em algum lugar especifico <br> como este, voce pode usar a tag &lt;br&gt; 
+    </p>
+</body>
+</html>  
 
 No google ficou dessa forma:
 
