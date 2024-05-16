@@ -1,4 +1,4 @@
-Foco, 100 dias aprendedno programação sem pular nenhum dia!
+# Foco, 100 dias aprendedno programação sem pular nenhum dia!
 
 # HTML5-e-CSS3-Estudos
 
@@ -25,3 +25,30 @@ No google ficou dessa forma:
 ![image](https://github.com/Mer1daAndrea/HTML5-e-CSS3-Estudos/assets/167032071/972fdacc-8056-4c99-aa8a-f044f00c6e86)
 
 ...
+----------------------------------------------------------------------------------------------------------
+
+# Foco 100 dias estudando programação!!
+
+2 - 100
+
+Hoje foi um dia corrido aprendi a colocar emigis e simbulos de moedas na minha pagina!
+
+![image](https://github.com/Mer1daAndrea/HTML5-e-CSS3-Estudos/assets/167032071/fc71df7b-18b4-4c53-9b35-8a76ddc56250)
+
+Resultado na pagina Web:
+
+![image](https://github.com/Mer1daAndrea/HTML5-e-CSS3-Estudos/assets/167032071/3238318c-cf8a-4236-b378-ecb99f439370)
+  
+Deixarei abaixo alguns exemplos que quero testar mais para frente
+
+(Material retirado do Portifolio de Gustavo Guanabara!)
+
+![image](https://github.com/Mer1daAndrea/HTML5-e-CSS3-Estudos/assets/167032071/a7cc7275-4b8f-4189-8405-677e59b408ba)
+
+Escolhendo o emogi: emojipedia.org
+Em INFORMAÇÂO TECNICA, procurar por: Pontos de código	= U+2728; resultando no Emoji	"✨".
+
+...
+----------------------------------------------------------------------------------------------------------
+
+
